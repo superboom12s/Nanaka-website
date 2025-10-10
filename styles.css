@@ -1,4 +1,53 @@
 
+.ubuntu-light {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.ubuntu-regular {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ubuntu-medium {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.ubuntu-bold {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.ubuntu-light-italic {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.ubuntu-regular-italic {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.ubuntu-medium-italic {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.ubuntu-bold-italic {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
 header {
     color: black;
     background-color: #ffc8dd;
@@ -7,6 +56,7 @@ header {
     width: 100%;
     text-align: center;
     align-items: center;
+    font-family: "Ubuntu", sans-serif;
 }
 
 a {
@@ -19,6 +69,7 @@ footer {
     min-height: 45px;
     width: 100%;
     text-align: center;
+    font-family: "Ubuntu", sans-serif;
 }
 section {
     width: 100%;
@@ -44,6 +95,7 @@ article {
 }
 body{
     background-color:#a2d2ff;
+    font-family: "Ubuntu", sans-serif;
     /*margin: 0px auto;*/
 }
 
