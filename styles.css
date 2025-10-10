@@ -1,0 +1,68 @@
+
+header {
+    color: black;
+    background-color: #ffc8dd;
+    height: auto;
+    min-height: 45px;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+}
+
+a {
+    color: #ff6392;
+}
+footer {
+    color: black;
+    background-color: #ffc8dd;
+    height: auto;
+    min-height: 45px;
+    width: 100%;
+    text-align: center;
+}
+section {
+    width: 100%;
+    height: auto;
+    min-height: 50px;
+    display: table;
+    clear: both;
+}
+nav {
+    height: auto;
+    min-height: 500px;
+    width: 275px;
+    background-color: #bde0fe;
+    float: left;
+}
+article {
+    height: auto;
+    min-height: 500px;
+    width: 275px;
+    background-color: #bde0fe;
+    float: right;
+    text-align: center;
+}
+body{
+    background-color:#a2d2ff;
+    /*margin: 0px auto;*/
+}
+
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+img{
+    border: 5px solid #5E377A;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.titulos_DVD{
+    margin-left: 25px;
+}
+.poster_article {
+    margin-right: auto;
+    margin-left: auto;
+    border: 3px solid #5E377A;
+}
