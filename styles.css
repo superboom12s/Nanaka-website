@@ -118,3 +118,9 @@ img{
     margin-left: auto;
     border: 3px solid #5E377A;
 }
+
+div {
+  width:20%;
+  float:left;
+  text-align: center;
+}
