@@ -81,14 +81,14 @@ section {
 nav {
     height: auto;
     min-height: 500px;
-    width: 275px;
+    width: 15%;
     background-color: #bde0fe;
     float: left;
 }
 article {
     height: auto;
     min-height: 500px;
-    width: 275px;
+    width: 15%;
     background-color: #bde0fe;
     float: right;
     text-align: center;
@@ -107,8 +107,7 @@ p {
 }
 img{
     border: 5px solid #5E377A;
-    margin-left: 50px;
-    margin-right: 50px;
+
 }
 .titulos_DVD{
     margin-left: 25px;
@@ -123,4 +122,10 @@ div {
   width:20%;
   float:left;
   text-align: center;
+}
+
+.encabezado {
+  width: 70%;
+  text-align: center;
+  float: left;
 }
