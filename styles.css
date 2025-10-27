@@ -80,14 +80,14 @@ section {
 }
 nav {
     height: auto;
-    min-height: 500px;
+    min-height: 1000px;
     width: 15%;
     background-color: #bde0fe;
     float: left;
 }
 article {
     height: auto;
-    min-height: 500px;
+    min-height: 1000px;
     width: 15%;
     background-color: #bde0fe;
     float: right;
@@ -107,7 +107,6 @@ p {
 }
 img{
     border: 5px solid #5E377A;
-
 }
 .titulos_DVD{
     margin-left: 25px;
@@ -129,3 +128,18 @@ div {
   text-align: center;
   float: left;
 }
+
+.titulo {
+  margin: 0%;
+  border: 0px;
+}
+.titulo_texto {
+  font-size: 200%;
+}
+
+.cuerpo {
+  width: 45%;
+  margin-left: 28%;
+  text-align: center;
+}
+
