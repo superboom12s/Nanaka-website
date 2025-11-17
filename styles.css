@@ -136,6 +136,10 @@ div {
 .titulo_texto {
   font-size: 200%;
 }
+.titulo_articulo {
+  margin: 5%;
+
+}
 
 .cuerpo {
   width: 45%;
