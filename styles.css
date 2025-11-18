@@ -49,10 +49,14 @@
 
 
 header {
+    position: sticky;
+    top: 0;
+    padding: 4px 6px;
+    
     color: black;
     background-color: #ffc8dd;
     height: auto;
-    min-height: 45px;
+    min-height: 65px;
     width: 100%;
     text-align: center;
     align-items: center;
@@ -72,6 +76,7 @@ footer {
     font-family: "Ubuntu", sans-serif;
 }
 section {
+
     width: 100%;
     height: auto;
     min-height: 50px;
@@ -147,3 +152,13 @@ div {
   text-align: center;
 }
 
+.titulo_encabezado {
+  float: left;
+  margin: 0%;
+  border: 0px;
+}
+.titulo_encabezado2 {
+  float: right;
+  margin: 0%;
+  border: 0px;
+}
